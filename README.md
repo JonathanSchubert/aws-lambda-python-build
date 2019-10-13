@@ -1,8 +1,8 @@
 # aws-lambda-python-build
 
-Build, test and ship an AWS lambda function package with custom Python modules:
+Build, test and ship an AWS lambda function package with custom Python modules
 
-## Preparations:
+## Preparations
 1. Put the Python program and the requirements.txt in `./app`
 2. Adapt the configuration in `./config_pipeline.cfg` to your needs
 
