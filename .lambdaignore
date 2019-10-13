@@ -1,0 +1,6 @@
+*.*ignore
+*README*
+.git/*
+
+*/*.pyc
+*/__pycache__/
